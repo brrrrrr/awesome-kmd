@@ -29,6 +29,7 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
     - Chainswap
     - Coque
     - BitcoinHush
+    - CoinCollect (CCL)
   - Ecosystem Companies/Organisations
     - ChainMakers
     - ChainZilla
@@ -64,7 +65,7 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
 
 ### Unofficial Komodo Wallets:
   - Verus Agama Wallet: [https://veruscoin.io/wallet.html](https://veruscoin.io/wallet.html)
-  - 
+  - CoinCollect Wallet: [https://coincollect.cc/](https://coincollect.cc/)
 
 # AtomicDEX Resources
 
